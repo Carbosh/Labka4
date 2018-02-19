@@ -27,6 +27,7 @@ int main()
 	cout << "Ноги";
 	cout << "машина";
 	cout << "тазік";
+	cout << "8 Скрипка";
     return 0;
 }
 
