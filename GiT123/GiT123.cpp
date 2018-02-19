@@ -34,6 +34,8 @@ int main()
 	cout << "2";
 	cout << "2";
 	cout << "3";
+	cout << "11 9 клас ";
+	cout << "12 2014 рік";
     return 0;
 }
 
