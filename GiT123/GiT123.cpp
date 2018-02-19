@@ -47,6 +47,8 @@ int main()
 	cout << "уцпа";
 	cout << "кек";
 	cout << "3 Піщанка";
+	cout << "4 Мама";
+	cout << "5 Папа";
     return 0;
 }
 
