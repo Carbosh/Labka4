@@ -73,6 +73,7 @@ int main()
 	cout << "22";
 	cout << "33";
 	cout << "72";
+	cout << "04.05.2015";
     return 0;
 }
 
