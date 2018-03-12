@@ -74,6 +74,7 @@ int main()
 	cout << "33";
 	cout << "72";
 	cout << "04.05.2015";
+	cout << "Каша, салаит";
     return 0;
 }
 
