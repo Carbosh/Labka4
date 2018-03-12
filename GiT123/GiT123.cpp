@@ -44,6 +44,7 @@ int main()
 	cout << "2";
 	cout << "2";
 	cout << "2";
+	cout << "óöïà";
     return 0;
 }
 
