@@ -45,6 +45,7 @@ int main()
 	cout << "2";
 	cout << "2";
 	cout << "σφοΰ";
+	cout << "κεκ";
     return 0;
 }
 
