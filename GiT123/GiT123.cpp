@@ -13,6 +13,7 @@ int main()
 	cout << "2004;
 		cout << "руруруру";
 	cout << "кукукуку";
+	cout << "3какакак;
     return 0;
 }
 
