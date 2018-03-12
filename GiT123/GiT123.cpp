@@ -62,6 +62,7 @@ int main()
 	cout << "22";
 	cout << "33";
 	cout << "72";
+	cout << "Таврия 2017р";
     return 0;
 }
 
