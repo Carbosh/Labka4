@@ -70,6 +70,7 @@ int main()
 	cout << "04.05.2015";
 	cout << "Каша, салаит";
 	cout << "4";
+	cout << "22";
     return 0;
 }
 
