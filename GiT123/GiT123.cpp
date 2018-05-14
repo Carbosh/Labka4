@@ -71,6 +71,7 @@ int main()
 	cout << "Каша, салаит";
 	cout << "4";
 	cout << "22";
+	cout << "33";
     return 0;
 }
 
